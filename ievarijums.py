@@ -7,3 +7,4 @@ if receptes_numurs == "1":
 else:
     izmaksas = cukura_cena*abolus_kg*0.5 
 print(f"Par cukuru tu samaksāsi {izmaksas} eiro")
+print(":) otrais zars")
